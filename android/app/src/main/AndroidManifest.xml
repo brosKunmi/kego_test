@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.kego_test">
+   <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="kego_test"
         android:name="${applicationName}"
